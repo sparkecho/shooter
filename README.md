@@ -5,7 +5,7 @@ A simple FPS game written with C++ and OpenGL.
 A binary excutable file is provided, and it may run on your Linux if you have compatible OpenGL and GLFW3.  
 `$ ./shooter`  
 Then you may see the scene in the following picture:  
-![](images/shooter.png)
+<img src="images/shooter.png" width="300">  
 You can press the arrow keys and move your mouse around.  
 Press `ESC` to quit.
 ## Compile
