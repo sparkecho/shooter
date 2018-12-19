@@ -12,8 +12,9 @@ Press `ESC` to quit.
 `$ make`
 ## Dependencies
 ### OpenGL
-version >= 3.3
+version >= 3.3, core profile
 ### GLFW3
+Tested with version 3.2.
 ### GLM
 Tested with version 0.9.8 and 0.9.9.
 ### GLAD (Optional)
