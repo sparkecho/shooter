@@ -6,7 +6,7 @@ A binary excutable file is provided, and it may run on your Linux if you have co
 `$ ./shooter`  
 Then you may see the scene in the following picture:  
 <img src="images/shooter.png" width="300">  
-You can press the arrow keys and move your mouse around.  
+You can press arrow keys (W, A, S, D) to move around and/or move your mouse to adjust the direction of crosshair.  
 Press `ESC` to quit.
 ## Compile
 `$ make`
